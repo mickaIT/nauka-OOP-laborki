@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1515674943 source:c:\users\kasia\desktop\nauka\src\drzwi.cpp
+	"Drzwi.h"
+
+1515674325 c:\users\kasia\desktop\nauka\include\drzwi.h
+	"Poziom.h"
+
+1515674998 source:c:\users\kasia\desktop\nauka\src\okna.cpp
+	"Okna.h"
+
+1515675037 c:\users\kasia\desktop\nauka\include\okna.h
+	"Poziom.h"
+
+1515676198 source:c:\users\kasia\desktop\nauka\src\pietro.cpp
+	"Pietro.h"
+
+1515687676 c:\users\kasia\desktop\nauka\include\pietro.h
+	"Poziom.h"
+
+1515676117 source:c:\users\kasia\desktop\nauka\src\poziom.cpp
+	"Poziom.h"
+
+1515674324 c:\users\kasia\desktop\nauka\include\poziom.h
+
+1516459382 source:c:\users\kasia\desktop\nauka\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+
+1515676117 source:c:\users\kasia\desktop\nauka\src\blok.cpp
+	"Blok.h"
+	<vector>
+
+1515672833 c:\users\kasia\desktop\nauka\include\blok.h
+	<vector>
+	"Poziom.h"
+
